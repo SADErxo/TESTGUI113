@@ -1,5 +1,5 @@
 do 
-    local ui =  game:GetService("CoreGui"):FindFirstChild("NBTxTP Lib") 
+    local ui =  game:GetService("CoreGui"):FindFirstChild("PANDAHUB") 
     if ui then
         ui:Destroy()
     end
